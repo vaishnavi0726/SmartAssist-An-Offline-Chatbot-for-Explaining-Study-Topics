@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Goa",
+    "mood": "happy",
+    "budget": 12000,
+    "season": ["winter", "summer"],
+    "type": "Beach",
+    "rating": 4.8,
+    "image_url": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=900&q=85",
+    "reason": "Golden beaches, lively sunsets, and plenty of room to celebrate."
+  },
+  {
+    "name": "Gokarna",
+    "mood": "happy",
+    "budget": 8500,
+    "season": ["winter", "summer"],
+    "type": "Beach",
+    "rating": 4.7,
+    "image_url": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=900&q=85",
+    "reason": "A laid-back coastal escape with scenic beaches and a slower pace."
+  },
+  {
+    "name": "Varkala",
+    "mood": "happy",
+    "budget": 10000,
+    "season": ["winter", "summer"],
+    "type": "Beach",
+    "rating": 4.7,
+    "image_url": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?auto=format&fit=crop&w=900&q=85",
+    "reason": "Cliffside ocean views, breezy cafés, and a refreshing change of scene."
+  },
+  {
+    "name": "Munnar",
+    "mood": "stressed",
+    "budget": 9000,
+    "season": ["winter", "summer", "monsoon"],
+    "type": "Hills",
+    "rating": 4.9,
+    "image_url": "https://images.unsplash.com/photo-1593693411515-c20261bcad6e?auto=format&fit=crop&w=900&q=85",
+    "reason": "Quiet tea gardens and cool mountain air make it easy to unwind."
+  },
+  {
+    "name": "Ooty",
+    "mood": "stressed",
+    "budget": 7500,
+    "season": ["winter", "summer"],
+    "type": "Hills",
+    "rating": 4.6,
+    "image_url": "https://images.unsplash.com/photo-1511497584788-876760111969?auto=format&fit=crop&w=900&q=85",
+    "reason": "Gentle walks, green valleys, and a cozy hill-station reset."
+  },
+  {
+    "name": "Coorg",
+    "mood": "stressed",
+    "budget": 11000,
+    "season": ["winter", "monsoon"],
+    "type": "Nature",
+    "rating": 4.8,
+    "image_url": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=900&q=85",
+    "reason": "Misty coffee plantations and forest trails offer a peaceful retreat."
+  },
+  {
+    "name": "Jaipur",
+    "mood": "curious",
+    "budget": 8000,
+    "season": ["winter", "spring"],
+    "type": "Culture",
+    "rating": 4.7,
+    "image_url": "https://images.unsplash.com/photo-1477587458883-47145ed94245?auto=format&fit=crop&w=900&q=85",
+    "reason": "Colorful markets, grand forts, and memorable local food."
+  },
+  {
+    "name": "Manali",
+    "mood": "stressed",
+    "budget": 14000,
+    "season": ["winter", "summer"],
+    "type": "Hills",
+    "rating": 4.8,
+    "image_url": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=900&q=85",
+    "reason": "Mountain scenery and crisp air make for a restorative change of pace."
+  }
+]
